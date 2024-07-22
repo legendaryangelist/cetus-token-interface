@@ -12,4 +12,3 @@ Cetus = { git = "https://github.com/CetusProtocol/cetus-token-interface.git", su
 
 [addresses]
 xcetus = "0x9e69acc50ca03bc943c4f7c5304c2a6002d507b51c11913b247159c60422c606"
-sui =  "0x2"
